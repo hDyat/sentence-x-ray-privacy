@@ -4,19 +4,20 @@ title: Sentence X-Ray Privacy Policy
 
 # Sentence X-Ray Privacy Policy
 
-_Last updated: November 22, 2026_
+_Last updated: November 23, 2026_
 
 Sentence X-Ray is a Chrome extension that shows the grammatical structure of an English sentence you highlight on a webpage.
 
 ## Summary
 
-Sentence X-Ray does not collect, store, or share any personal data.
+The only data Sentence X-Ray handles is the text you highlight when you choose **Analyze sentence**. It is analyzed on your own computer and then forgotten. It is never stored, sent anywhere, or shared. Sentence X-Ray collects no personal data.
 
 ## What happens to the text you highlight
 
 - When you choose **Analyze sentence**, the highlighted text is analyzed entirely on your own computer.
 - The text is never sent to any server. The extension makes no network requests.
 - The text is not saved. When you close the overlay, it is gone.
+- In the Chrome Web Store's privacy section, this text is listed as **Website content**, because the extension reads it from the page. It still never leaves your computer.
 
 ## What we do not do
 
